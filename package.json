@@ -1,4 +1,13 @@
 {
+	"author": "Aymen",
+	"description": "My FreeCodeCamp Backend and APIs project.",
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"apis",
+		"nodejs",
+		"express"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,7 +19,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "Aymen",
-	"description": "My FreeCodeCamp Backend and APIs project."
+	}
 }
