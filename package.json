@@ -9,6 +9,7 @@
 		"express"
 	],
 	"license": "MIT",
+	"version": "1.2.5",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
